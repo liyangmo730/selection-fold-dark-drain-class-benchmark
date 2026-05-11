@@ -1,0 +1,5 @@
+case,parameters,f_resp_z0,min_power_ratio,max_tilt_pct
+source-layer conservative,"A_drain=0.020, A_mu=0",0.0,0.9604,0.0
+source-layer mild k-dependent,"A_drain=0.025, A_mu=0.005, M0=10",0.0,0.9594,0.0127
+response-derived robust,"p=3.25, C_drain=0.014, C_x=0.015",0.0619,0.9451,0.31
+response-derived stress,"p=3.25, C_drain=0.014, C_x=0.017",0.0696,0.9415,0.3514

@@ -1,0 +1,6 @@
+branch_id,P_geo_vs_metric_off,P_min,P_max,tilt_pct,finite_ok,branch_label
+metric_off,1.0,1.0,1.0,0.0,yes,metric off
+metric_on_zero,0.897145,0.889628,0.911578,1.6088,yes,metric-on zero
+drain_only_reference,0.891267,0.889624,0.89447,0.3594,yes,drain only
+source_B_control,0.896795,0.858999,0.911567,4.2146,yes,source B
+source_D_candidate,0.89693,0.872672,0.911567,2.7045,yes,source D

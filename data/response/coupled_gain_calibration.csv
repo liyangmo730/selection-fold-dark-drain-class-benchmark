@@ -1,0 +1,4 @@
+g_grow,f_resp_z0,min_power_ratio,max_tilt_pct,mu_eff_min,clip,window
+1,0.1245,0.9876,0.081,0.963,0.0,no
+4,0.1245,0.9511,0.326,0.851,0.0,yes
+5,0.1245,0.9392,0.408,0.814,0.0,no

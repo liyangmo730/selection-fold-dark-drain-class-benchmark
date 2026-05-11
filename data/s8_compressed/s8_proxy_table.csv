@@ -1,0 +1,6 @@
+branch,P_geo,sqrt_P_geo,S8_suppression_pct_proxy,sqrt_P_min,sqrt_P_max,S8_ref_illustrative,S8_proxy_illustrative,S8_proxy_min_illustrative,S8_proxy_max_illustrative,interpretation,branch_label
+newtonian_gauge_benchmark,0.897145,0.947177,5.282,0.943201,0.954766,0.83,0.786157,0.782857,0.792456,Newtonian-gauge CLASS benchmark,NG
+metric_zero_reference,0.897145,0.947177,5.282,0.943201,0.954766,0.83,0.786157,0.782857,0.792456,metric-zero reference branch,Metric 0
+drain_only_reference,0.891267,0.944069,5.593,0.943199,0.945764,0.83,0.783578,0.782855,0.784984,drain-only amplitude suppression anchor,Drain
+source_family_B_proxy,0.896795,0.946993,5.301,0.926822,0.95476,0.83,0.786004,0.769262,0.792451,executable proxy for source-family B control,B
+source_family_D_proxy,0.89693,0.947064,5.294,0.934169,0.95476,0.83,0.786063,0.77536,0.792451,executable proxy for source-family D candidate,D
