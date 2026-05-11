@@ -1,0 +1,25 @@
+\begin{table*}[t]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{2.5pt}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccccccc}
+\toprule
+case & $A_{\mathrm{drain}}$ & $A_{\mu}$ & $M_0$ &
+$P_{0.01}/P_{\mathrm{off}}$ &
+$P_{0.03}/P_{\mathrm{off}}$ &
+$P_{0.10}/P_{\mathrm{off}}$ &
+$P_{0.30}/P_{\mathrm{off}}$ &
+$\min_{z=0\sim2}P/P_{\mathrm{off}}$ &
+$\max_{z=0\sim2}P/P_{\mathrm{off}}$ &
+max $|\mathrm{tilt}|$ (\%) \\
+\midrule
+conservative & 0.020 & 0.000 & 10 & 0.9604 & 0.9604 & 0.9604 & 0.9604 & 0.9604 & 0.9935 & $\approx0$ \\
+mild $k$-dependent & 0.025 & 0.005 & 10 & 0.9594 & 0.9603 & 0.9604 & 0.9604 & 0.9594 & 0.9935 & 0.01 \\
+boundary & 0.030 & 0.000 & 10 & 0.9409 & 0.9409 & 0.9409 & 0.9409 & 0.9409 & 0.9903 & $\approx0$ \\
+\bottomrule
+\end{tabular}
+}
+\caption{Representative source-layer effective bridge points. The conservative benchmark gives scale-independent suppression at $z=0$, the mild benchmark introduces only tiny $k$-dependence, and the boundary point illustrates low-redshift amplitude over-suppression.}
+\label{tab:source_layer_representatives}
+\end{table*}

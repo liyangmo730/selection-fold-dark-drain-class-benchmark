@@ -1,0 +1,16 @@
+\begin{table}[t]
+\centering
+\setlength{\tabcolsep}{6pt}
+\begin{tabular}{lcccc}
+\toprule
+iteration & $\min_{z,k}P/P_{\mathrm{off}}$ & $\max_z|\mathrm{tilt}|$ (\%) & $f_{\mathrm{resp}}(z=0)$ & clip \\
+\midrule
+iter1 & 0.9511 & 0.3260 & 0.12448 & 0.000 \\
+iter2 & 0.9513 & 0.3253 & 0.12336 & 0.000 \\
+iter3 & 0.9513 & 0.3253 & 0.12336 & 0.000 \\
+iter4 & 0.9513 & 0.3253 & 0.12336 & 0.000 \\
+\bottomrule
+\end{tabular}
+\caption{Picard convergence pilot for the calibrated robust coupled benchmark ($g_{\rm grow}=4$). Iteration-to-iteration shifts remain at the $10^{-4}$ level in the power-floor metric, with zero clipping.}
+\label{tab:picard_convergence}
+\end{table}
