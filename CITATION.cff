@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this release, please cite the manuscript and this archived repository."
+title: "A CLASS Benchmark for Late-Time Matter-Power Suppression: Reproducibility Release"
+authors:
+  - family-names: Mo
+    given-names: Liyang
+version: "1.0.0"
+date-released: "2026-05-11"
+repository-code: "https://github.com/liyangmo730/selection-fold-dark-drain-class-benchmark"
+license: MIT
+keywords:
+  - cosmology
+  - CLASS
+  - matter power spectrum
+  - S8
+  - reproducibility
